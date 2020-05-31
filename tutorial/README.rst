@@ -1,3 +1,10 @@
+## Exercise instructions
+This is a repo created as an exercise to the Open Source Energy System Modeling course held at TU Wien.
+For some reason there is no way to make the notebooks load up the pictures i made. I suppose that cloning the repo to your computer will do the trick.
+The exercise answeres are located in /tutorials/westeros. The files to look for are LED_scenario and Diffusion_rate_analysis.
+Cheers.
+
+
 Tutorials
 =========
 
